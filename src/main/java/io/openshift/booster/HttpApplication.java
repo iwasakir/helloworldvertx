@@ -95,7 +95,7 @@ public class HttpApplication extends AbstractVerticle {
 
         LOGGER.debug("Replying to request, parameter={}", name);
         JsonObject response = new JsonObject()
-            .put("content", String.format(message, name) + "!");
+            .put("content", String.format(message, name) + "!!");
 
         rc.response()
             .putHeader(CONTENT_TYPE, "application/json; charset=utf-8")
