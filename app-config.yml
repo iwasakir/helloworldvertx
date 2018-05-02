@@ -1,2 +1,2 @@
-message : "Bonjour %s from a ConfigMap!"
-level : DEBUG
+message : "Konnichiha %s from a ConfigMap!"
+level : INFO
