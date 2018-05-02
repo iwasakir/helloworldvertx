@@ -1,2 +1,2 @@
-message : "Konnichiha %s from a ConfigMap!"
+message : "KONNICHIHA %s from a ConfigMap!"
 level : INFO
